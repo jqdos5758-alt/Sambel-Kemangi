@@ -1,0 +1,17 @@
+{
+  "name": "Turnamen Sambel Kemangi",
+  "short_name": "Sambel Kemangi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#c62828",
+  "description": "Sistem Turnamen Catur Swiss & Gugur",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
